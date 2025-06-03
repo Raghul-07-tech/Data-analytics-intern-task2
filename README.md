@@ -11,13 +11,12 @@ Identify top-performing states, products, and customers
 Understand category-wise and payment-mode trends
 
 Visualize monthly profitability to detect seasonality or anomalies
-
-📌 Key Performance Indicators (KPIs)
-KPI	Value
-Total Sales Amount	₹438K
-Total Quantity Sold	5,615 units
-Total Profit	₹37K
-Average Order Value (AOV)	₹121K
+| KPI                           | Value       |
+| ----------------------------- | ----------- |
+| **Total Sales Amount**        | ₹438K       |
+| **Total Quantity Sold**       | 5,615 units |
+| **Total Profit**              | ₹37K        |
+| **Average Order Value (AOV)** | ₹121K       |
 
 🧩 Dashboard Components
 🔹 KPI Cards
@@ -51,3 +50,11 @@ Bar chart of profit by product sub-category
 
 Highest margin products: Printers and Bookcases
 
+🛠️ Tools & Technologies
+Power BI Desktop
+
+Power Query Editor for ETL (Extract, Transform, Load)
+
+DAX (Data Analysis Expressions) for calculated measures
+
+Excel/CSV as data source
